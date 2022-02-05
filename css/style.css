@@ -178,6 +178,10 @@ img {
 .page2 p {
    margin: 24px 0 24px 0;
 }
+.page2 li {
+   margin: 0 0 4px 0;
+   padding-left: 40px;
+}
 .bigtext {
    font-size: 20px;
    font-weight: 700;
@@ -186,5 +190,5 @@ img {
    margin-bottom: 24px;
 }
 .paddingtext {
-   padding: 24px 0 24px 0;
+   padding: 24px 0 24px 58px;
 }
